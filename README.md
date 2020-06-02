@@ -24,3 +24,5 @@ La aplicación se encuentra en proceso de mejora, razón por la cual estoy traba
 Entre ellas, planeo agregar la opción de línea de tendencias a los gráficos, armada de estadísticas del período 1981-2010 (luego
 será 1991-2020) para ser descargados en un txt, y algún pequeño control de los datos (detectar cuando hay demasiada cantidad de
 datos faltantes).
+
+Contacto: infometeoba.blogspot
