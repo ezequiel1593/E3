@@ -1,5 +1,5 @@
 # E3 versión 1.0.0
-Aplicación de escritorio hecha en Python. Estadísticas de temperatura y precipitaciones de un registro meteorológico.
+Aplicación de escritorio hecha en Python. Estadísticas de temperatura y precipitaciones de un registro meteorológico.<br>
 Con E3 se pueden visualizar datos, crear estadísticas y gráficos en base a un archivo de extensión .txt que contengan registros
 meteorológicos diarios.
 Dicho archivo debe respetar un formato, 6 columnas siguiendo el siguiente orden: año, mes, dia, precipitacion, temperatura máxima y 
