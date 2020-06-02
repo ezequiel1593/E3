@@ -1,3 +1,5 @@
+#Realizado por Ezequiel Elias, versión al 1 de junio del 2020.
+
 from tkinter import *
 from tkinter import messagebox
 from tkinter import filedialog
